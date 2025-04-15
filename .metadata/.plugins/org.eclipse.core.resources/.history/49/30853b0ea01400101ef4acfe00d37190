@@ -1,0 +1,5 @@
+package com.azhar.hotel.entity;
+
+public class User {
+
+}

@@ -1,0 +1,10 @@
+package com.azhar.hotel.service.impl;
+
+
+
+public class BookingService implements IBookingService {
+	
+	
+	
+
+}

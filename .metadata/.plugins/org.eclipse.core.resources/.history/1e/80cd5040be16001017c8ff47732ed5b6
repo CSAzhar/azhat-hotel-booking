@@ -1,0 +1,5 @@
+package com.azhar.hotel.service.interf;
+
+public interface IBookingService {
+
+}

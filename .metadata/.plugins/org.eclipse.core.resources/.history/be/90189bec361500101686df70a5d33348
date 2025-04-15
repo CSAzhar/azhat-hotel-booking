@@ -1,0 +1,5 @@
+package com.azhar.hotel.dto;
+
+public class Response {
+
+}

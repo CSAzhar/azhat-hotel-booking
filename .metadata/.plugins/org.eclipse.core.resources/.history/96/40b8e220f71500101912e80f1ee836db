@@ -1,0 +1,49 @@
+package com.azhar.hotel.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.azhar.hotel.dto.LoginRequest;
+import com.azhar.hotel.dto.Response;
+import com.azhar.hotel.entity.User;
+import com.azhar.hotel.service.interf.IUserService;
+
+@Service
+public class UserService implements IUserService{
+
+	@Override
+	public Response register(User loginReguest) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Response login(LoginRequest loginRequest) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Response getUserBookingHistory(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Response deleteUser(String UserId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Response getUserById(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Response getMyInfo(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
